@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sphamandla-s
 - 👀 I’m interested in ... System development
-- 🌱 I’m currently learning .. web development
-- 💞️ I’m looking to collaborate on ... any Python or Java project
+- 🌱 I’m currently learning .. App development
+- 💞️ I’m looking to collaborate on ... any Python or Java or Mern project
 - 📫 How to reach me ... mdletshespha38@gmail.com
 
 <!---

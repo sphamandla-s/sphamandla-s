@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sphamandla Mdletshe
 
-🌍 Based in South Africa | 🧑‍💻 Junior Software Engineer | 🎓 Certified Azure AI Engineer
+🌍 Based in South Africa | 🧑‍💻 Software Engineer | 🎓 Certified Azure AI Engineer
 
 ---
 
@@ -55,5 +55,6 @@ I'm excited to start a **YouTube channel and social media presence** to share in
 
 <!-- - **LinkedIn**: [Your LinkedIn URL] -->
 - **Email**: sphamdletshe.dev@gmail.com
+- **Website**: https://siphamandla-mdletshe.vercel.app/
 
 Let's connect and collaborate on projects that make a difference!
